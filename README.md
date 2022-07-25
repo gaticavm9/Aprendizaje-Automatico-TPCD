@@ -1,8 +1,8 @@
 # Analisis-Datos-TPCD
-Aplicación en Jupyter Notebook que muestra historia del proceso de desarrollo de análisis de regresión sobre un conjunto de datos seleccionado, utilizando las herramientas que provee el lenguaje de programación Python a través de las bibliotecas Numpy, Pandas, Matplotlib, Seaborn, Scipy y Sklearn.
+Aplicación en Jupyter Notebook que muestra historia del proceso de implementación de un ciclo completo de técnicas de Aprendizaje Automático sobre un conjunto de datos seleccionado, utilizando las herramientas que provee el lenguaje de programación Python a través de las bibliotecas Numpy, Pandas, Matplotlib, Seaborn, Scipy y Sklearn.
 
 ## Resumen
-Mediante la aplicación de 3 modelos de Regresión al conjunto de datos se busca hallar cuales variables son predictores potenciales del valor de otra variable dependiente, en este caso el Porcentaje de Personas Insatisfechas (ppd).
+Mediante la aplicación de un modelo de Aprendizaje Automático al conjunto de datos se busca hallar cuales variables son predictores potenciales del valor de otra variable dependiente, en este caso el Porcentaje de Personas Insatisfechas (ppd).
 
 
 ## Instalación y uso del Notebook
